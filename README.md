@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @AndresHernandezr-3
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me:
-
-   ![Gmail:](https://github.com/AndresHernandezr-3/AndresHernandezr-3/assets/150524652/54bdcd5f-0a9b-4b15-93f7-b47e5c2d3697) andreshernandezr3@gmail.com
-  
-   ![Instagram][def] andreshernandezr.3
+<!DOCTYPE html>
+<html>
+<head>Looking for programming challenges
+</head>
+<body>
+   <h1>Andrés Hernández</h1>
+   <h2>Welcome to my GitHub profile</h2>
+   <h2>Contact me:<br>
+   <ul>
+      <li><img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_1280.png" alt="Gmail icon width="17" height="15"> andreshernandezr3@gmail.com</li>
+       <li><img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" alt="Instagram icon" width="20" height="25"> Andreshernandez.r3</li>
+   </ul>
+   </h2>
+</body>
+</html>
 
 <!---
 AndresHernandezr-3/AndresHernandezr-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
