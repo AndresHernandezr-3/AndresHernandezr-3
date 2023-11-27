@@ -1,16 +1,32 @@
 <!DOCTYPE html>
 <html>
-<head>Looking for programming challenges
+<head>
+   <!--<title>Andrés Hernández</title>-->
 </head>
 <body>
    <h1>Andrés Hernández</h1>
+   
+   <!--Welcome section-->
+   
    <h2>Welcome to my GitHub profile</h2>
-   <h2>Contact me:<br>
-   <ul>
-      <li><img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_1280.png" alt="Gmail icon width="17" height="15"> andreshernandezr3@gmail.com</li>
-       <li><img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" alt="Instagram icon" width="20" height="25"> Andreshernandez.r3</li>
-   </ul>
-   </h2>
+   <p>I am an ambitious and driven programmer with a passion for growth and learning, who is <strong>determined to make a positive impact in the tech industry</strong>. I possess a modest amount of knowledge in how to <em>translate logical thought into machine language and a desire to stay on the cutting edge of technology</em>. I am always on the lookout for advice and wisdom that others can provide.<br>
+<strong>This is a work in progress.</strong>
+   </p>
+   <!-- Project section -->
+   <h3>Projects:</h3>
+   <p>You can find the projects I'm working on here:
+   <ol>
+      <li></li>
+   </ol>
+   </p>
+
+   <!--Contact me section-->
+   <h3><strong>Contact me:</strong></h3>
+     <p><ul>
+         <li><img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_1280.png" alt="Gmail icon width="17" height="15"> andreshernandezr3@gmail.com</li>
+         <li><img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" alt="Instagram icon" width="20" height="25"> Andreshernandezr.3</li>
+         </ul>
+      </p>
 </body>
 </html>
 
