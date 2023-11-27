@@ -14,9 +14,12 @@
    </p>
    <!-- Project section -->
    <h3>Projects:</h3>
-   <p>You can find the projects I'm working on here:
+   <p>You can find some of the projects I'm working on here:
    <ol>
-      <li></li>
+      <li>FreeCodeCamp</li>
+      <li>LeetCode</li>
+      <li><a href="https://www.sololearn.com/profile/30780921">SoloLearn</a></li>
+      <li><a href="https://www.duolingo.com/profile/Oso526408">Duolingo</a></li>
    </ol>
    </p>
 
