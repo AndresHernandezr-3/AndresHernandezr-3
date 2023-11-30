@@ -8,7 +8,7 @@
    
    <!--Welcome section-->
    <section>
-      <h2 align="center">Welcome to my GitHub profile</h2>
+      <h2 align="center"; bgcolor="black">Welcome to my GitHub profile</h2>
          <p>I am an ambitious and driven programmer with a passion for growth and learning, who is <strong>determined to make a positive impact in the tech industry</strong>. I possess a modest amount of knowledge in how to <em>translate logical thought into machine language and a desire to stay on the cutting edge of technology</em>. I am always on the lookout for advice and wisdom that others can provide.<br>
          <strong>This is a work in progress.</strong>
          </p>
