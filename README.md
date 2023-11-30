@@ -4,7 +4,7 @@
    <!--<title>Andrés Hernández</title>-->
 </head>
 <body>
-   <h1 style="text-align: center;">Andrés Hernández</h1>
+   <h1 align="center">Andrés Hernández</h1>
    
    <!--Welcome section-->
    <section>
