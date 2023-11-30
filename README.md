@@ -2,17 +2,13 @@
 <html>
 <head>
    <!--<title>Andrés Hernández</title>-->
-   <style>
-      h1 {text-align:center;}
-      h2 {text-align: center;}
-   </style>
 </head>
 <body>
-   <h1>Andrés Hernández</h1>
+   <h1 style="text-align: center;">Andrés Hernández</h1>
    
    <!--Welcome section-->
    <section>
-      <h2>Welcome to my GitHub profile</h2>
+      <h2 style="text-align: center;">Welcome to my GitHub profile</h2>
          <p>I am an ambitious and driven programmer with a passion for growth and learning, who is <strong>determined to make a positive impact in the tech industry</strong>. I possess a modest amount of knowledge in how to <em>translate logical thought into machine language and a desire to stay on the cutting edge of technology</em>. I am always on the lookout for advice and wisdom that others can provide.<br>
          <strong>This is a work in progress.</strong>
          </p>
