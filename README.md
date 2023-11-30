@@ -5,6 +5,7 @@
    <style>
       h1 {text-align:center;}
       h2 {text-align: center;}
+   </style>
 </head>
 <body>
    <h1>Andrés Hernández</h1>
